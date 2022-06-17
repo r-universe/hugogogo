@@ -1,0 +1,14 @@
+[
+  {
+    "package": "natural",
+    "oncran": true
+  },
+  {
+    "package": "sprintr",
+    "oncran": true
+  },
+  {
+    "package": "varband",
+    "oncran": true
+  }
+]

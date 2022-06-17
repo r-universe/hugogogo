@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "natural"]
+	path = natural
+	url = https://github.com/hugogogo/natural
+	shallow = true
+	registered = true
+[submodule "sprintr"]
+	path = sprintr
+	url = https://github.com/hugogogo/sprintr
+	shallow = true
+	registered = true
+[submodule "varband"]
+	path = varband
+	url = https://github.com/hugogogo/varband
+	shallow = true
+	registered = true
