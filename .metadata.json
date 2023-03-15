@@ -1,10 +1,10 @@
 [
   {
-    "package": "sprintr",
+    "package": "natural",
     "oncran": true
   },
   {
-    "package": "natural",
+    "package": "sprintr",
     "oncran": true
   },
   {
